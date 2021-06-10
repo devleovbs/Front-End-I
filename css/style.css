@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-image: url(https://bit.ly/3g7ht7X);
+    background-repeat: no-repeat;
+    background-position: right;
+    /* Altura do body */
+    height: 100bh;
+    /* Tamanho da imagem */
+    background-size: 500px;
+    background-color: black;
+    background-attachment: fixed;
+}
+
+/* Personalizar o título */
+h1 {
+    color:red;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* Personalizar os subtítulos
+h2 {
+    color:blue
+}*/
+
+/* Personalizar cada identificador */
+
+#green {
+    color:green;
+    font-style: italic;
+}
+
+#blue {
+    color: #0000FF;
+    font-weight: bold;
+}
+
+.colors {
+    color: darkblue;
+    font-size: 24px;
+}
